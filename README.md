@@ -64,3 +64,4 @@ npm install framer-motion
 npm run dev
 
 ![image alt](https://github.com/happypatel200/quiz-app/blob/47c19d3da233d767dc5b9fa60105297ba1bad701/Screenshot_4-12-2025_191139_localhost.jpeg)
+![image alt](https://github.com/happypatel200/quiz-app/blob/3815fe0e4e8c40fc3ace2bcfe18cb5beb72aaad2/Screenshot_4-12-2025_19919_localhost.jpeg)
